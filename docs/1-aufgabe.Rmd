@@ -1,0 +1,99 @@
+---
+title: "Aufgabe 1 f&uuml;r Kurs B2"
+author: "Robert Cline"
+date: "Donnerstag 08.06.2023"
+output: word_document 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# output: word_document
+# output: html_document 
+# output: pdf_document 
+
+# Umlaut-Formel: &[letter]uml;
+# Eszett-Formel: &szlig;
+
+
+```
+
+## Hausaufgaben f&uuml;r heute Do 08.06.2023
+
+###  **Seite 24 (lesen Sie den Teil "Vergangenheitsformen der Verben."** Du müsst die Aufgaben nicht machen!)
+
+
+### **Seite 156-161** **(die liste von unregelmäßigen Verben, die ihr für die 8 Sätze benutzen werdet ^[*werdet*: second person plural of *werden*])**
+
+1. *sich entscheiden* f&uuml;r jemanden/f&uuml;r ein Studium.
+
+* **Prateritum** 
+  - Nachdem ich den Kursplan gesehen hatte, entschied ich mich, Deutsch zu studieren.
+  
+* **Perfekt**  
+  - Nachdem ich den Kursplan geshen hatte, habe ich mich entschieden, Deutsch zu studieren.  
+  
+2. **anangen**  
+* **Pr&auml;teritum** 
+  - Am 6. June fing die Deutschesommerschule an.
+  
+* **Prefekt**  
+  - Ich habe am 6. June mit die Deutschesommerschule angefangen.  
+
+3.  **leihen**  
+* **Pr&auml;teritum**  
+  - Er leih Geld mit geil, aber hat er nie Geld verliehen.  
+* **Prefekt**  
+  - Er hat gern Geld zu geliehen, aber hat er kein Interesse Geld verliehen.  
+  
+
+4. **liegen**  
+* **Pr&auml;teritum**  
+  - Mein Hund lag da, als ich ihn bat, sich hinzulegen.  
+* **Prefekt**  
+  - Ich bat mein Hund zulegen, und hat er sofort gelagen.   
+  
+5. **nacheweisen** (prove)  
+* **Pr&auml;teritum**  
+  - Ich wies meine Unschuld nach, indem ich ein Alibi vorlegte.  
+* **Prefekt**  
+  - Ich habe meine Unschuld nachgewiesen, weil ich ein Alibi habe vorlegte.  
+  
+6. **hinnehmen** ^[The German word "hinnehmen" can be translated to English as "to accept" or "to tolerate." It describes the act of acknowledging or allowing something, often without actively resisting or objecting to it. It implies a willingness to endure or live with a particular situation or outcome.] 
+* **Pr&auml;teritum**  
+  - Er nahm das laute Musik hin, obgleich daruber war er nicht froh.   
+* **Prefekt**  
+  - Er hat das laute Musik hingenommen obgleich war er nich froh daruber.
+
+7. **schlaffen und einschlaffen** ^[schlaffen is to sleep, einschlaffen is to fall asleep]  
+* **Pr&auml;teritum**  
+  - Weil er ganz m&uuml;de war, schlief er ein im nur wenig minuten.  
+* **Prefekt**  
+  - Weil er ganz m&uuml;de war ist er schnell eingeschlaffen.  
+
+8. **fernsehen**  
+* **Pr&auml;teritum**  
+  - Gestern abend sah er fern  
+* **Prefekt**  
+  - Gestern abend hat er ferngesehen  
+
+\newpage 
+
+## Teil II Information &uuml;ber Selbst  
+
+* Ich hei&szlig;e Robert  
+
+* Ich war Soldat zwischen 1964 bis 1967. Ich war in Karlruhe Deutschland stationiert aber lerntete ich kein Deutsch in dieser Zeit.  Nach dem Dienst in der Armee, fing ich 1967 an, Deutsch zu studieren, als ich mein Studium an der Universit&auml;t begann.  
+
+* Warum studierte ich Deutsch? Ich war erst 19 Jahre alt, als ich in Deutschland ankam. Obgleich ich fast kein Deutsch sprechen k&ouml;nnte, In dieser frühen Phase meines Lebens hatten meine Erfahrungen in Deutschland einen großen Einfluss auf mein Leben.Ich wurde auch auf die geografische und politische Bedeutung Deutschlands für den Weltfrieden aufmerksam. Deshalb studiertete ich Deutsch.  
+
+* Ich bin von Deutschland fasziniert. Der Teil Deutschlands, der mich besonders interessiert, ist die politische Dimension Deutschlands.
+
+
+
+
+
+
+ 
+
+
