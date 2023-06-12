@@ -1,0 +1,33 @@
+---
+title: ""
+author: ""
+date: ""
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Das Märchen - Anne mit einem E ^[Anne mit einem E ist eine bezaubernde Geschichte, die im Jahr 2017 auf Netflix erschienen ist <https://www.netflix.com/title/80136311>]  
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
+Lehrer:  Joseph Kuster  
+
+<br>  
+
+Anne mit einem E,  
+wie eine Schatz die erschien;  
+Die Anne mit einem E,  
+wurde von Mutter und Vater verwaist. 
+
+Die Anne mit einem E,  
+begehrte eine Familie,  
+f&uuml;r die sie Anspruch erhob. 
+
+Die Anne mit einem E   
+fand ein neues Zuhause, voller Liebe und Zartgefühl,   
+Lachte und strahlte, das Glück war nun da,   
+In ihrer neuen Familie, war sie die wahre Zier.   
+
