@@ -1,0 +1,33 @@
+---
+title: "Film als Metaphor"
+output: word_document
+bibliography: Deutsch.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# &zslig; 
+# &uuml; 
+
+
+
+## https://staff.washington.edu/phurvitz/csde502_winter_2021/files/bibliography_ama.html
+```
+
+## 
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
+Lehrer:  Joseph Kuster  
+F&auml;llig:  13.06.2023  
+
+In einem Vortrag, gehalten am 12. Juni 2023 auf der Deutschen Sommerschule von New Mexico, beschrieb Erin Consla den Film *Transit* von Christan Petzolds [@consla_identitaten_2023, @Petzolds_transit_2018]. Der Film basiert auf dem Roman "Transit" von Anna Seghers aus dem Jahr 1944, der Themen wie Exil und Vertreibung erforscht [@seghers_transit_2013].
+
+Wie oft im deutschen Film zu finden, verkörpert *Transit* des Regisseurs Petzolds eine konzeptuelle Metapher, die das Leben eines jeden von uns umfasst. 
+
+Wir, das hei&szlig;t du und ich, sind in *Transit* ab dem Moment wir geborn sind.  Jede Phase unserer Lebens ist ein Transit. Wir transitieren von einer Phase zur n&auml;chsten &uuml;ber. Dasein ist beweglich, niemals statish.  Ich war einmal nichts; dann bekamm ich; und ein Tag werde ich nochmal nicht bekommen.  
+
+Wir immer haben Grenzen.  Was will ich?  Wie will ich? Einige Veränderungen kann ich nicht ändern; f&uuml;r andere Veränderungen muss ich kämpfen, um sie zu ändern. Jede Veränderung ist eine neue Grenze. Durch jede Veränderung wachse ich, und ich werde wachsen, bis ich wieder nichts bin.
+
+
+### References 
