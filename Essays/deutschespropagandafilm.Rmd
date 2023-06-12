@@ -1,0 +1,58 @@
+---
+title: "Deutsche Propagandafilme"
+output: word_document
+bibliography: Deutsch.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# &zslig; 
+# &uuml; 
+
+
+
+## https://staff.washington.edu/phurvitz/csde502_winter_2021/files/bibliography_ama.html
+```
+
+## 
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
+Lehrer:  Joseph Kuster  
+F&auml;llig:  012.06.2023  
+
+In einem Vortrag, gehalten am 9. Juni 2023 auf der Deutschen Sommerschule von New Mexico, beschrieb Joseph Kuster die Entwicklung deutscher Propagandafilme während des Ersten Weltkriegs [@kuster_wer_2023].
+
+Propaganda ist ein interessantes Thema zum Verständnis der modernen Geschichte des Films. Ohne Verständnis dessen, was Propaganda ist und wie sie in den Medien angewendet wird, läuft der Zuschauer Gefahr, manipuliert zu werden. Ohne solches Wissen wie kann man sich sch&uuml;tzen? Die Studien der Propaganda sollten Teil von Kurses zum kritisiches Denken sein.  So weit wie ich wei&szlig; auf Abiturniveau es gibt keine Kurses im kritisisches Denken. Das hat die Vereinigten Staaten beinahe in die Katastrophe geführt.  
+
+Die Frage ist, wie können wir verhindern, dass Propaganda uns in die Katastrophe treibt. Die fr&uuml;hen wissenschaftliche Studien der Propagandaindustrie ist, ohne zweifel, eine reichhaltige Quelle f&uuml;r Einblicke in das Verst&auml;ndnis der Auswirkungen von Propaganda auf uns als individuum und als Gesselschaft. Zum Beispiel, wurde die erste öffentliche Filmvorführung von den Brüdern Lumière im Jahr 1895 in Paris geschaffen [@lumiere_1936_1996]. Im Jahr 1897 erschien das Buch von Le Bon mit dem Titel "The Crowd: A Study of the Popular Mind" [@bon_crowd_1897]. Le Bon beschreibt darin das Verhalten und den Einfluss von Menschenmassen. Das Buch von Le Bon mu&szlig; sehr interessant sein.  Ich habe es noch nicht gelesen, aber ich habe interesse dieses Buch zu erkunden.  Dieses Buch war die Grundlage und wegweisende Arbeit f&uuml;r Propaganda. 
+
+Die Benutzung der Propaganda in der Führungskräfte der Filmindustrie waren schnell darauf entwickelt. Die Menschenmengenpsychologie von Le Bon bei der Filmgestaltung wurde gr&uuml;ndlich angenommen.^[Verweisen Sie auf die Arbeit von Kessler und Link [@kessler_french_1996], in der beschrieben wird, wie die Franzosen die frühe Filmindustrie dominierten und illustriert wird, wie diese Technologie auf die deutsche Filmindustrie übertragen wurde.] 
+
+Ich schlage vor, dass die Studie zur frühen Geschichte der Propaganda im Film und zur Psychologie hinter Propaganda Teil des Lehrplans für das Abitur wird. Ich habe oben genannte Beispiele als Ausgangspunkt vorgeschlagen.
+
+### Refererences:
+
+```{r echo=FALSE}
+knitr::knit_exit()
+```
+
+Chad R Fulwider [@fulwider_film_2015] Propaganda and Culture <https://muse.jhu.edu/pub/39/article/604514>
+
+DM
+Verst&auml;ndnis   Ich wunsche mehr Leute sind &uuml;ber Propaganda Bescheid.  
+
+Am anfang des Kreigs gab es wenig Propagandafilme.  Laut Kuster war zu Beginn des Krieges die Meinung, dass der Krieg, der im August 1914 begann, vor Weihnachten vorbei sein würde.  Ein schnelles Ende des Krieges aber, sollte nicht sein.  
+
+
+
+Die erste öffentliche Filmvorführung wurde von den Brüdern Lumière im Jahr 1895 in Paris geschaffen. Im Jahr 1897 erschien das Buch mit dem Titel "The Crowd: A Study of the Popular Mind" von Gustave Le Bon.(1987.) Le Bon beschreibt das Verhalten und den Einfluss von Menschenmassen. Die Führungskräfte der Filmindustrie waren schnell dabei, Le Bons Menschenmengenpsychologie bei der Filmgestaltung zu nutzen.
+
+
+
+
+
+Die erste Nation, die im Ersten Weltkrieg eine formelle Kriegserklärung abgab, war Österreich-Ungarn. Österreich-Ungarn erklärte am 28. Juli 1914 Serbien den Krieg, nachdem Erzherzog Franz Ferdinand, der Thronfolger von Österreich-Ungarn, von einem serbischen Nationalisten ermordet wurde.  Deutschland wurde kurz nach Beginn des Konflikts in den Ersten Weltkrieg verwickelt. Am 1. August 1914 erklärte Deutschland Russland den Krieg, einer der ersten größeren Aggressionsakte im Krieg. Dies wurde von Deutschlands Kriegserklärung an Frankreich am 3. August 1914 gefolgt.
+
+Matthew Claussen glaubte, dass das amerikanische Publikum noch anfälliger für die verführerischen Qualitäten visueller Medien war als die sorgfältigen Leser in Europa, deren nahezu allgemeine Alphabetisierung es ihnen ermöglichte, Flugblätter und Berichte kritisch zu interpretieren oder zumindest mit einem gesunden Maß an Skepsis, unabhängig von der vertretenen Perspektive. Claussen glaubte, dass Amerikaner schnelle Entscheidungen aufgrund einer emotionalen Reaktion auf Nachrichten oder Kriegsberichte treffen, anstatt eine logische Abwägung von Fakten und Interpretationen vorzunehmen. Für ihn bedeutete diese kulturelle und kognitive Schwäche, dass der moderne Film ein ideales Instrument zur Beeinflussung der öffentlichen Meinung durch eine Reihe von schnellen Eindrücken war. Claussen argumentierte, dass "das Kino eine große Wirkung ausübt...
+
