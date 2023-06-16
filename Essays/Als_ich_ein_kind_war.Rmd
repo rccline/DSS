@@ -1,0 +1,28 @@
+---
+title: "Als ich ein kleine Junge War"
+output: word_document
+bibliography: Deutsch.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# &zslig; 
+# &uuml; 
+
+
+
+## https://staff.washington.edu/phurvitz/csde502_winter_2021/files/bibliography_ama.html
+```
+
+## 
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
+Lehrer:  Joseph Kuster  
+F&auml;llig:  016.06.2023  
+
+An der Deutschen Sommerschule von New Mexico gab Dr. Mathais Ullam am 16. Juni 2023 einen Vortrag über das autobiographische Buch "Als ich ein kleine Junge War" von Erich Kästner.   Als ich an mein eigenes Leben nachschaute, fragte ich mich, ob ich, wie Kästner, mein früheres Leben und meine Heimat ideologisch oder realistisch beschreiben würde.
+
+Psychologen wissen seit langem, dass die Rekonstruktion unserer Vergangenheit von Erinnerungen nicht perfekt ist. In vielen Fällen ist sie nicht einmal zuverlässig. Fehlerhafte Erinnerungen sind jedoch nicht nutzlos. Obwohl es hilfreich wäre, eine wahre Version der Vergangenheit zum Vergleich zu haben, können unsere Erinnerungen an die Vergangenheit ein nützliches Werkzeug sein, um unsere Persönlichkeit und sogar unsere Pathologie zu untersuchen. "Als ich ein kleine Junge War" könnte als Mittel zur Selbstverständnis dienen.
+
+Selbstverständnis ist persönlich nützlich, interessant und aufschlussreich. Diese Method der Untersuchungs der persönlichen Psychologie ist ähnlich den Methoden, die von frühen deutschen Psychologen wie Freud, Karen Horney und anderen in diesem Bereich verwendet wurden. Die moderne Psychologie lehnt diesen Ansatz jedoch ab. Heutzutage ist die Psychologie eher darauf ausgerichtet, Probleme zu lösen. Versicherungsgesellschaften, die oft für psychische Gesundheitsprobleme zahlen, möchten schnelle und kostengünstige Lösungen. "Was ist das Problem? Was haben Sie unternommen, um das Problem anzugehen? Was hat geholfen?" Ich schlage vor, dass die Reflexion über die Vergangenheit nützlich ist, um sich selbst zu verstehen und Einblicke zu gewinnen, vielleicht weniger, um die Vergangenheit als "Wahrheit" zu verstehen, sondern als Spiegelbild Ihrer selbst.
