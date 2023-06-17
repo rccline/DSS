@@ -1,0 +1,27 @@
+---
+title: "Eindrücke von Deutschland"
+author: "Robert Cline"
+date: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Eindrücke eines Soldaten in Deutschland 1964-1967.
+
+Nachdem Deutschland im Zweiten Weltkrieg besiegt wurde, wurde es von den Alliierten besetzt. Die Bundesrepublik Deutschland wurde 1949 gegründet und nachdem änderte sich die Beziehung zu den Besatzungsmächten. Die Besatzungsmächte überwachten und überwachten weiterhin den Demokratisierungsprozess. Die alliierte Besatzung Deutschlands endete offiziell mit der Unterzeichnung des Vertrags über die abschließende Regelung in Bezug auf Deutschland am 12. September 1990, als Deutschland endlich als souveräner Staat anerkannt wurde.
+
+Konrad Adenauer war der erste Kanzler Deutschlands im Jahr 1949. Adenauer wird dafür anerkannt, das Land in einen demokratischen Staat zu führen, der sich mit der NATO verbunden hat. Die Adenauer-Jahre sahen die Anfänge der Bildung des Europäischen Wirtschaftsrats. Der gemeinsame Markt wurde jedoch erst nach 1967 etabliert, als ich Deutschland verließ.
+
+Ich war 1961 in der 10. Klasse, als die Berliner Mauer gebaut wurde. Ich machte 1963 meinen Abschluss und trat nach einem Jahr College in die US Army ein. Ich wurde in strategischer Kommunikation ausgebildet und wurde kurz nach Weihnachten 1964 nach Deutschland geschickt. Wir errichteten strategische Kommunikationseinrichtungen in ganz Europa und der Welt, um die Kommunikation von den Sowjets zu isolieren. Wir arbeiteten neben der deutschen Armee, einem NATO-Partner.
+
+In der frühen Besatzungszeit von 1945 bis 1949 war es verboten, mit den Deutschen zu fraternisieren. Nach 1949 war Fraternisierung nicht nur erlaubt, sondern wurde auch gefördert. Es war eine großartige Zeit, um in Deutschland zu sein. Deutschland wurde damals als Wirtschaftswunder bezeichnet. Die Wirtschaft florierte, alle lebten gut und die Amerikaner wurden als Abschreckung gegenüber den Sowjets willkommen geheißen.
+
+Es gab damals einige rechtsextreme politische Parteien, aber sie waren keine bedeutende politische Kraft. Im Juni 1966 veranstaltete die rechtsextreme Partei NPD Demonstrationen in Karlsruhe gegen die Einwanderungspolitik. Die NPD vertrat anti-immigration und Nationalismus. Ich war zu dieser Zeit Sergeant während der Proteste. Das US-Militärgeheimdienst rief alle Offiziere und Unteroffiziere zusammen, um Fotos der Demonstranten zu untersuchen. Es war verboten, dass sich ein Soldat an politischen Aktivitäten beteiligt.
+
+Während meiner Zeit in Deutschland habe ich keinen rechtsextremen Extremismus erlebt. Die Amerikaner wurden willkommen geheißen und die Beziehungen zwischen den deutschen Bürgern und den Soldaten waren freundlich und immer angenehm.
+
+Ich kehrte in den 1990er Jahren nach Deutschland zurück und traf dort auf einige rechtsextreme Ideologien. Ich hatte ein freundliches Gespräch mit jemandem bei einem Glas Wein, als ich gefragt wurde: "Siehst du das Haus auf dem Hügel dort?" Ja, antwortete ich. Nun, Juden leben dort. Hitler hat dieses Land einst gesäubert, schau es dir jetzt an. Wir brauchen einen weiteren Hitler."
+
+Extremismus ist überall. Zum Glück sind ihre Zahlen in Deutschland gering. Tatsächlich führt Deutschland derzeit die Demokratie der Welt an. Ich habe nichts als Respekt für die deutsche Regierung und das deutsche Volk. Sie sind ein Vorbild für die Welt.
+
