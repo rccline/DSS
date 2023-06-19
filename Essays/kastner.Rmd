@@ -1,0 +1,23 @@
+---
+title: "Kästner und Sein Schaffen"
+author: ""
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
+Lehrer:  Joseph Kuster  
+F&auml;llig:  020.06.2023  
+
+Dieser Sommer ist meine Einladung, das Werk von Erich Kästner zu entdecken. Ich habe zuvor noch nie von ihm gehört. Seine Bücher sind weltweit sehr bekannt, aber sie waren mir nicht bekannt. Warum? Da ich  nicht gelesen habe, kann ich nur spekulieren, warum er in den USA nicht bekannt ist. Es könnte sein, dass das Marketing einen großen Einfluss darauf hat, wie seine Werke präsentiert werden. Die Vereinigten Staaten sind ein sehr großer Markt. Warum wurde sein Werk nicht hier vermarktet? Kulturelle Unterschiede und unterschiedliche literarische Vorlieben können den Erfolg von Literatur in verschiedenen Ländern beeinflussen, obwohl Kästners Werke offenbar einem breiten Publikum gefallen. Warum also nicht in den USA?
+
+Ich bin interessiert daran, Kästners Werk zu erkunden. Kästner scheint sehr faszinierend zu sein. In der Nazizeit sagte er: "Ich bin wie ein Baum; hier lebe ich und hier sterbe ich." Obwohl seine Bücher verbrannt wurden, blieb er trotz der großen Gefahr in Deutschland. Ich bewundere seinen Mut, auch wenn ich sein Urteilsvermögen nicht teile. Für ihn muss es sehr gefährlich gewesen sein, in Deutschland zu bleiben.
+
+Der Zeitgeist unserer Ära in der Vereignigten Staaten erinnert mich an die frühe Nazizeit zur Zeit von Kästner. In den Vereignigten Staaten verbrennen keine Bücher, aber Bücher sind in vielen Schulen verboten. Was an Schulen und Universitäten gelehrt wird, ist auch in einigen Orten zensiert.
+
+In welche Richtung steuert Amerika?
