@@ -1,0 +1,32 @@
+---
+title: ''
+author: ""
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
+Lehrer:  Joseph Kuster  
+F&auml;llig:  Do 29.06.2023  
+
+## Die Große Kompromisslösung 
+
+In einem Vortrag, gehalten am 9. Juni 2023 auf der Deutschen Sommerschule von New Mexico, beschrieb Jason Wilby *die Leiden des jungen Werthers* von Goethe. 
+
+Ich bin kein Goethe scholar.  Ich habe nur von Goethe Faust gelesen.  Ich versuchte *die Leiden des jungen Werthers* zu lesen, aber fand ich das das Buch zu schwer.  Leider bin ich auch nicht ein Student von Philosophie.  Aber bin ich neuguerig uber was mir in Goethes Schriften als Widersprüche erscheint.
+
+Wilby gemalt ein Bild von Goethe als man wer seinen Schaffens ein Umbruch mit der Aufklarung ekl&auml;rt.  Mit seinen Schaffens wurde Goethe eine neue Ära der Romantizismus geboren.    Laut Wilby, Goethe schrieb:  
+
+*Man kann zum Vortheile der Regeln viel sagen, ohngef&auml;hr was man zum Lobe der b&uuml;ugerlichen Gesellschaft sagen kann.  Ein Mensch, der sich nach ihnen bilden, wird nie etwas abgeschmacktes und schlechtes hervorbringen...dagegen wird aber auch all Regel, man rede was man wolle, das wahre Gefuehl von Natur und den wahren Ausdruck derselben zerstoeren.*
+
+Hier stellt Goethe soziale Zwänge als schädlich für die Seele.  Jetzt kommt der junge Werther verlassen und untröstlich von unerwiderte Liebe.  Werther befand sich in solchem Leid und solcher Trauer, dass er Selbstmord begehen musste. Werther lehnt gesellschaftliche Normen ab und verbindet sich mit idealistischem Romantizismus. Er erliegt ihnen.
+
+Goethe, im Widerspruch zur Verehrung des Romantizismus seiner Zeit, erliegt ebenfalls. Er schrieb seine Geschichte um. Nur Werther der ersten Ausgabe blieb seinen Überzeugungen treu.
+
