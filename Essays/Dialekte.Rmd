@@ -1,0 +1,29 @@
+---
+title: ''
+author: ""
+date: ""
+output: html_document
+bibliography: dialekt.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Dialekte
+### von Robert Cline
+UNM 100684786  
+F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
+Lehrer:  Joseph Kuster  
+F&auml;llig: am 30.06.2023 und am 30.06.2023 korrigiert.
+
+
+## Dialekte
+
+Dialekte haben mich immer fasziniert. Als ich einen Dialekt hörte, den ich nicht kannte, wurde ich neugierig. Woher kommt diese Person? Aber Isabella Khoo hatte einige Gründe aufgelistet, warum eine solche Frage beleidigend sein könnte [@khoo_4_2016].  Laut Khoo deutet es darauf, dass die Person hier nicht gehört. Zweitens ist die Frage unangemessen.  Ich verstehe diese Einwände. Wenn mich die Neugierde übermannt, könnte ich meine Frage vielleicht so formulieren: *Ich habe ziemlich viel gereist und interessiere mich für Sprachen. Darf ich Ihnen frage, woher Sie kommen?*  Wenn man in einem fremden Land reist, ist es möglicherweise nicht so beleidigend, einen Fremden nach seinem Herkunftsland zu fragen. ^[Ich verstehe den Fehler,*in einem fremden Land*, nicht.] Dennoch sollte man vorsichtig sein, um niemanden zu beleidigen.
+
+Muttersprachen können auch über Generationen hinweg bestehen. Zum Beispiel: Während ich einen Indianer aus den USA sprechen höre, erkenne ich einen bestimmten Akzent, obwohl diese Person kein Wort der indianischen Sprache spricht.  Es ist ähnlich für Afroamerikaner.  Obwohl die ursprüngliche Muttersprache vor Generationen verloren gegangen ist, haben viele, wenn nicht die meisten, einen charakteristischen Akzent beibehalten.  Das ist mir ein erstaunliches Phänomen. Ich stamme aus Houston, Texas. Ich lebe seit 12 Jahren in Nebraska, und mein Texaner Akzent ist immer deutlich und bemerkbar. Er begleitet mich überall
+
+Resources:  
+
