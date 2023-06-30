@@ -10,16 +10,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ```  
 
 ## Gedanken  über den Idealismus Schillers 
+**(Korrigiert)**
 
 ### von Robert Cline
 UNM 100684786  
 F&uuml;r:  Deutsche Sommerschule von New Mexico - Sprachkurs B2    
 Lehrer:  Joseph Kuster  
-F&auml;llig:  23.06.2023  
+Fällig am 23.06.2023 und am 30.06.2023 korrigiert.
 
-Die sehr dramatische lesung von der Gedict *Die Kraniche des Idykus* von Schiller von Dr. Pabish erstaunlich war. Wie verstehe ich das Gedicht von Schiller wurde als Darstellung einer idealistischen Welt gerechter Vergeltung interpretiert.  Im Gedicht hatten die T&auml;ter der Mord des Opfers Ibykus "Damit [haben] sich die beiden aus eigener Schuld verraten".  Ist das ein Bild von Realit&auml;t?  Sieg dem Guten gegen&uuml;ber &Uuml;bel? Manchmal ja; und manchmal nein.  Wir sehen &Uuml;bel jeden Tag.  Als ich beobachte den ukrainische krieg, frage mich, wann ist dieser Krieg am ende?  Wie kann solche &Uuml;bel am ende kommen?  Der Westen hatten idealishes Erwartungen fur diesen Krieg.  Stect hinten idealistichsen Erwartunging und Hoffnungen lieg die Rache der G&ouml;tter. Was bedeutet die Rache der G&ouml;tter? Konnen wir solce Intervention erwarten? 
 
-Wir sehen und leben Übel jeden Tag. Als ich beobachte den ukrainischen krieg zum Beispiel, frage mich, wann ist dieser Krieg am ende? Warum haben wir eben diesen schrecklichen Krieg?  Ich glaube diesen krieg entstand im Teil wegen der idealistichen Aussicht des Westens. Nach der Zerfall der Sowjetunions (im 1989) hatte den Westen die Russien einen sch&ouml;nen Wilkommen gegeben.  Gorbochev hatte Peristroika geschrieben, dann in 1992 erschien das Buch von Francis Fukuyama *Das Ende Geschichte*. Das Idea im Westen war in dieser neuen Zeit dass politische Geschischte ist im wende nicht nur im Westen aber auch der Sowjetunion nach eine Liberaldemokratie werden. Das war nicht nur ein großer Fehler es war Tragisch. Russland hatte die Möglichkeit, sich dem Westen in Frieden, Freiheit und Demokratie anzuschließen. Der Westen war bereit zu helfen und hatte doch mit Handel und Offenheit Russia unterstützt. Aber Russland interessiert sich im Realpolitik des Revanchismus.
+Die sehr dramatische Lesung vom Gedict *Die Kraniche des Idykus* von Schiller von Dr. Pabish war erstaunlich. Wie verstehe ich das Gedicht von Schiller, das als Darstellung einer idealistischen Welt gerechter Vergeltung interpretiert wurde?  Im Gedicht hatten die T&auml;ter der Mord des Opfers Ibykus "Damit [haben] sich die beiden aus eigener Schuld verraten".  Ist das ein Bild von der Realit&auml;t?  Sieg des Guten über das Böse. Manchmal ja; und manchmal nein.  Wir sehen &Uuml;bel jeden Tag.  Als beobachte ich den ukrainischen Krieg, frage mich, wann ist dieser Krieg zum Ende?  Wie kann solche &Uuml;bel zum Ende kommen?  Der Westen hatte idealistische Erwartungen für diesen Krieg.  Hinter idealistischen Erwartungen und Hoffnungen liegt die Rache der Götter. Was bedeutet die Rache der G&ouml;tter? Können wir solche Intervention erwarten? 
 
-Was würde Schiller geschrieben, wenn er den heutigen Ukraine-Krieg miterlebt hätte?  Ich bin nicht blind optimistisch da&szlig; alles gut ist das ende gut. Aber ich glaube, dass der Westen viel für Idealismus bezahlt hat.
+Wir sehen und leben Übel jeden Tag. Als beobachte ich den ukrainischen krieg zum Beispiel, frage mich, wann ist dieser Krieg zum Ende? Warum haben wir eben diesen schrecklichen Krieg?  Ich glaube, diesen krieg entstand im Teil wegen der idealistichen Aussicht des Westens. Nach dem Zerfall der Sowjetunion (im Jahr 1991) hatte der Westen Russland herzlich willkommen geheißen.  Gorbatschow hatte Perestroika als politischen Prozess eingeleitet und auch ein Buch mit dem Titel 'Perestroika' geschrieben. Im Jahr 1992 erschien das Buch von Francis Fukuyama *Das Ende der Geschichte*. Die Idee im Westen war, dass nicht nur der Westen, sondern auch die Sowjetunion sich nach einer liberalen Demokratie in dieser neuen Zeit entwickeln würde. Das war nicht nur ein großer Fehler es war Tragisch. Russland hatte die Möglichkeit, sich dem Westen in Frieden, Freiheit und Demokratie anzuschließen. Der Westen war bereit zu helfen und hatte doch mit Handel und Offenheit Russia unterstützt. Aber Russland interessiert sich im Realpolitik des Revanchismus.
+
+Was hätte Schiller geschrieben, wenn er den heutigen Ukraine-Krieg miterlebt hätte?  Ich bin nicht blind optimistisch, da&szlig; alles gut ist das ende gut. Aber ich glaube, dass der Westen viel für Idealismus bezahlt hat.
 
