@@ -2,7 +2,7 @@
 title: ''
 author: ""
 date: ""
-output: word_document
+output: html_document
 bibliography: goethe.bib
 ---
 
@@ -19,17 +19,17 @@ F&auml;llig:  Do 29.06.2023
 
 ## Die Große Kompromisslösung 
 
-In einem Vortrag, gehalten am 9. Juni 2023 auf der Deutschen Sommerschule von New Mexico, beschrieb Jason Wilby *die Leiden des jungen Werthers* von Goethe [@wilby_goethes_2023]. 
+In einem Vortrag am 9. Juni 2023 auf der Deutschen Sommerschule von New Mexico gehalten, beschrieb Jason Wilby *die Leiden des jungen Werthers* von Goethe [@wilby_goethes_2023]. 
 
-Ich bin kein Goethe scholar.  Ich habe nur von Goethe Faust gelesen.  Ich versuchte *die Leiden des jungen Werthers* zu lesen, aber fand ich das das Buch zu schwer [@johanes_wolfgang_geothe_leiden_1774].^[die Leiden des jungen Werters ist von Projekt G&uuml;ttenberg-DE kostenlos zum Download verfügbar]  Leider bin ich auch nicht ein Student von Philosophie.  Aber bin ich neuguerig uber was mir in Goethes Schriften als Widersprüche erscheint.
+Ich bin kein Goethe scholar.  Ich habe nur von Goethe Faust gelesen.  Ich versuchte *die Leiden des jungen Werthers* zu lesen, aber fand ich ich das Buch zu schwer [@johanes_wolfgang_geothe_leiden_1774].^[die Leiden des jungen Werters ist von Projekt G&uuml;ttenberg-DE kostenlos zum Download verfügbar]  Leider bin ich auch kein Student von Philosophie.  Aber ich bin neuguerig dauber was mir in Goethes Schriften als Widersprüche erscheint.
 
-Wilby gemalt ein Bild von Goethe als man wer seinen Schaffens ein Umbruch mit der Aufklarung ekl&auml;rt.  Mit seinen Schaffens wurde Goethe eine neue Ära der Romantizismus geboren.    Laut Wilby, Goethe schrieb:  
+Wilby malte ein Bild von Goethe, als er sein Schaffen als einen Umbruch mit der Aufklärung erklärte. Mit seinem kreativen Schaffen hat Goethe eine neue Ära des Romantizismus hervorgebracht. Laut Wilby, Laut Wilby schrieb Goethe:
 
-*Man kann zum Vortheile der Regeln viel sagen, ohngef&auml;hr was man zum Lobe der b&uuml;ugerlichen Gesellschaft sagen kann.  Ein Mensch, der sich nach ihnen bilden, wird nie etwas abgeschmacktes und schlechtes hervorbringen...dagegen wird aber auch all Regel, man rede was man wolle, das wahre Gef&uuml;hl von Natur und den wahren Ausdruck derselben zerst&ouml;ren.*
+*Man kann zum Vortheile der Regeln viel sagen, ohngef&auml;hr was man zum Lobe der b&uuml;rgerlichen Gesellschaft sagen kann.  Ein Mensch, der sich nach ihnen bilden, wird nie etwas abgeschmacktes und schlechtes hervorbringen...dagegen wird aber auch alle Regel, man rede was man wolle, das wahre Gef&uuml;hl von Natur und den wahren Ausdruck derselben zerst&ouml;ren.*
 
-Hier stellt Goethe soziale Zwänge als schädlich für die Seele.  Jetzt kommt der junge Werther verlassen und untröstlich von unerwiderte Liebe.  Werther befand sich in solchem Leid und solcher Trauer, dass er Selbstmord begehen musste. Werther lehnt gesellschaftliche Normen ab und verbindet sich mit idealistischem Romantizismus. Er erliegt ihnen.
+Hier stellt Goethe soziale Zwänge als schädlich für die Seele.  Jetzt kommt der junge Werther verlassen und untröstlich von unerwidertet Liebe.  Werther befand sich in solchem Leid und solcher Trauer, dass er Selbstmord begehen musste. Werther lehnt gesellschaftliche Normen ab und verbindet sich mit idealistischem Romantizismus. Er erliegt ihnen.
 
-Goethe, im Widerspruch zur Verehrung des Romantizismus seiner Zeit, erliegt ebenfalls. Er schrieb seine Geschichte um. Nur Werther der ersten Ausgabe blieb seinen Überzeugungen treu.
+Im Widerspruch zur Verehrung des Romantizismus seiner Zeit, erliegt Goethe ebenfalls. Er schrieb seine Geschichte um. Nur in der ersten Ausgabe bleibt Goethe seinen Überzeugungen treu.
 
 **Andere Resourzen**: 
 
